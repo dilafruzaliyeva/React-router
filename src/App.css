@@ -1,0 +1,19 @@
+.button{
+    display: flex;
+    justify-content: space-between;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.container h1{
+    text-align: center;
+}
+
+.container{
+    margin-top: 50px;
+}
+
+.button1{
+    display: flex;
+    justify-content: center;
+}

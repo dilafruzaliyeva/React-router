@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Anvar",
+      "email": "dilafruz@gmail.com",
+      "title": "3D max"
+    },
+    {
+      "id": "2",
+      "name": "qweqwe",
+      "email": "example@gmail.com",
+      "title": "qwedas"
+    },
+    {
+      "id": "3",
+      "name": "Komola",
+      "email": "komola@mail.com",
+      "title": "Smm"
+    }
+  ]
+}
